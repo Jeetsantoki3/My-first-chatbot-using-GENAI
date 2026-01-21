@@ -3,6 +3,7 @@ In this project i created my first chat bot using basic concept of AL, LLMS, RAG
 For creating chat bots you have basic knowladge of AI, LLMS, RAG applications, Langchain Framework, Fine tuning.
 You need to know how AI works like (Tokenning, Embedding, Embedding Vectors, Transformers, Text generation, Decoder).
 In this chat bot creation we are going to use librarys that listed below
+
 1-streamlit
 2-langchain
 3-PyPDF2----(This is pdf loder)
