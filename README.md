@@ -11,6 +11,7 @@ In this chat bot creation we are going to use librarys that listed below
 
 For basic coding you need python and for editor you can use any like (vscode,pycharm)
 First you have to install this librarys for that you open terminal of your code editor and then type
+
     pip install streamlit langchain PyPDF2 faiss-cpu
 
 This bot run on your local browser
